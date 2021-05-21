@@ -1,4 +1,4 @@
-# Image-classification-model #Which-Cricketer-Do-You-look-like?
+# Image-classification-model & Which-Cricketer-Do-You-look-like?
 Image Classification Model using Tensorflow
 The project uses Tensorflow, Keras and Numpy libraries to train and image classifier.
 Accuracy Achieved= 50% | 
